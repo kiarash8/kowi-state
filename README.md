@@ -1,6 +1,5 @@
 ## Kowi State
-built with ReactJs, Hooks, Google Material Design
-(createContext, useReducer)
+built with ReactJs, Hooks, Google Material Design, (createContext, useReducer)
 
 Simple Task Board example to shows how to managing application state in react hooks
 
